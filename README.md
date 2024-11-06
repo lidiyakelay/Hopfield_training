@@ -21,11 +21,11 @@ While Hopfield networks are designed to be **robust to noise**, they struggle wi
 ### 5. Lack of Flexibility & Scalability
 Once trained, Hopfield networks are unable to update their memory or store new patterns without **retraining** the entire network. This lack of flexibility makes them less adaptive to changing data. Furthermore, as the network size grows, so does the **computational cost**, which limits their scalability to large, real-time tasks.
 
----
-
 ### Conclusion
 
 While Hopfield networks were a **pioneering concept** in associative memory, their limitations make them less suited for modern applications that require handling larger, more complex datasets. **Deep learning models** are generally preferred for such tasks due to their flexibility, scalability, and ability to process **real-valued data**.
+
+---
 
 ## Applications of Hopfield Networks
 
