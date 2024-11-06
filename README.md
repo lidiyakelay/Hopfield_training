@@ -1,4 +1,4 @@
-# Hopfield_training
+# Hopfield_training_Tasks
 
 ## Drawbacks of Hopfield Networks
 
